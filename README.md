@@ -1,4 +1,2 @@
 # TheSite
-Open it on index.html
-Improving html and css experience
-Without framework
+Improving html and css experience without framework. Open it on index.html.
